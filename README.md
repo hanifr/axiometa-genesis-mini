@@ -104,6 +104,4 @@ library, PubSubClient.
 
 ## Credit
 
-Developed against one unit. Pin mappings are measured on that hardware — if a
-module behaves differently on yours, `#MXWIRE` and `#BZID` will tell you, and
-a correction is welcome.
+Measured on one Axiometa Genesis Mini (ESP32-S3, four AX22 ports). Everything below was found by driving pins and watching modules, not by reading the labels. If your unit differs, #MXWIRE and #BZID in the firmware will tell you, and a correction is welcome.
